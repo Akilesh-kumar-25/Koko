@@ -39,7 +39,7 @@ Koko is a visually rich, front-end-only website made for a modern food franchise
 ## 📫 Contact
 
 - GitHub: Akilesh-kumar-25
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/akileshkumar-s-5273932b7/
 - Email:akilesh.s8055@gmail.com
 
 ---
