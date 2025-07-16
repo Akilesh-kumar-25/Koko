@@ -2,7 +2,7 @@
 
 Koko is a visually rich, front-end-only website made for a modern food franchise serving burgers, crispy chicken, and other non-veg delights. Founded in 2024, Koko now boasts 12 locations and over 12,000 happy customers.
 
-> ⚠️ This is a **basic front-end project only**
+> ⚠️ This is a **basic front-end project only** — no backend or database is involved.
 > 
 ---
 
