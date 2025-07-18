@@ -12,7 +12,7 @@ Koko is a visually rich, front-end-only website made for a modern food franchise
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Built 
 
 - **HTML5**
 - **Tailwind CSS**
