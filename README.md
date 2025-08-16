@@ -21,7 +21,7 @@ Koko is a visually rich, front-end-only website made for a modern food franchise
 
 ## 🎨 Features
 
-- Rich gradient background with hover animations
+- Rich gradient background with hover animation
 - Use laptop for better experience
 - Mobile-friendly responsive layout
 - Modern fonts, layout, and color palette
