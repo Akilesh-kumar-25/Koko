@@ -1,4 +1,4 @@
-# 🍔 Koko — Flavor That Speak
+# 🍔 Koko — Flavor That Speaks
 
 Koko is a visually rich, front-end-only website made for a modern food franchise serving burgers, crispy chicken, and other non-veg delights. Founded in 2024, Koko now boasts 12 locations and over 12,000 happy customers.
 
