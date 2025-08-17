@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { ChefHat, Heart, Star, Trophy, Utensils, Users, MapPin, Clock, Award, Target } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 
-export const KokoAboutBio = () => 
+export const KokoAboutBio = () => {
   const achievements = [
     {
       icon: MapPin,
@@ -296,5 +296,6 @@ export const KokoAboutBio = () =>
   );
 
 };
+
 
 
