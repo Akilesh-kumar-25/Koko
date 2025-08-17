@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ChefHat, Heart, Star, Trophy, Utensils, Users, MapPin, Clock, Award, Target } from "lucide-react";
+import { ChefHat, Heart, Star, Trophy, Utensils, Users, MapPin, Clock, Award, Target } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card";
 
 export const KokoAboutBio = () => {
@@ -294,4 +294,5 @@ export const KokoAboutBio = () => {
       </motion.div>
     </section>
   );
+
 };
